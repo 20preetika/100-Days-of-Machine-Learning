@@ -20,3 +20,14 @@ Day 2: Types of Machine Learning (Based on Supervision)
   - Combination of both labeled and unlabeled data.
 - Reinforcement:
   - An agent learns by interacting with an environment.
+ 
+
+Day 3: Batch vs. Online Machine Learning & Instance vs. Model-based Learning
+
+- Batch vs. Online Machine Learning:
+  - Batch Learning: We train the model offline using a large dataset. It takes time. After training, we deploy it. When new data comes in, we have to pull the model back, retrain offline again, and redeploy.
+  - Online Learning: The model updates in real-time with small data increments. The model keeps refining. But we need to be careful: bad data can sneak in, so constant monitoring is key.
+   
+- Instance vs. Model-based Learning:
+  - Instance-based: The model looks at the data when queried, using similarities or neighbors to make predictions without forming a general pattern beforehand.
+  - Model-based: We train a model to learn a pattern or rule from data. Once trained, it uses that pattern to predict future inputs.
