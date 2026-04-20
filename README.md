@@ -31,3 +31,11 @@ Day 3: Batch vs. Online Machine Learning & Instance vs. Model-based Learning
 - Instance vs. Model-based Learning:
   - Instance-based: The model looks at the data when queried, using similarities or neighbors to make predictions without forming a general pattern beforehand.
   - Model-based: We train a model to learn a pattern or rule from data. Once trained, it uses that pattern to predict future inputs.
+ 
+
+Day 4: Today I tackled key ML challenges
+- Data Collection: It’s often tough to source enough high-quality data, slowing progress.
+- Labeling Cost: Labeling data is expensive and time-consuming, yet essential for supervised learning.
+- Data Quality: Poor data leads to poor results—clean, relevant data is key.
+- Irrelevant Features: Features that don’t help can confuse the model, so careful selection matters.
+- Overfitting vs. Underfitting: We must balance so the model generalizes well.
