@@ -48,3 +48,14 @@ Day 5: Today I learned about ML applications
 - In rideshares, ML adjusts prices based on demand and supply.
 - In manufacturing, ML predicts when a machine might fail so it’s fixed early.
 - On social media, ML suggests content we’ll like and helps businesses reach us.
+
+
+Day 6: Machine Learning Development Lifecycle (MLDLC)
+- Frame the problem: Define the goal and what success looks like.
+- Gather data: Collect relevant datasets that align with the problem.
+- Data preprocessing: Clean and format data to ensure quality.
+- EDA (Exploratory Data Analysis): Explore patterns, distributions, and insights.
+- Feature engineering: Create or select the best features for the model.
+- Model training, evaluation, and selection: Train multiple models, pick the best one.
+- Deployment, testing, and optimization: Put it in production, test it, and refine it over time.
+
