@@ -39,3 +39,12 @@ Day 4: Today I tackled key ML challenges
 - Data Quality: Poor data leads to poor results—clean, relevant data is key.
 - Irrelevant Features: Features that don’t help can confuse the model, so careful selection matters.
 - Overfitting vs. Underfitting: We must balance so the model generalizes well.
+
+
+Day 5: Today I learned about ML applications 
+- In retail, ML predicts which products will be popular so inventory is ready (like Amazon’s sales events).
+- In marketing, stores analyze what we buy to send relevant offers later.
+- For loans, ML compares you to past borrowers to help decide if you’ll repay.
+- In rideshares, ML adjusts prices based on demand and supply.
+- In manufacturing, ML predicts when a machine might fail so it’s fixed early.
+- On social media, ML suggests content we’ll like and helps businesses reach us.
