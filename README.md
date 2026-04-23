@@ -59,3 +59,15 @@ Day 6: Machine Learning Development Lifecycle (MLDLC)
 - Model training, evaluation, and selection: Train multiple models, pick the best one.
 - Deployment, testing, and optimization: Put it in production, test it, and refine it over time.
 
+
+Day 7: Tensors
+- Tensors are multi-dimensional data containers used to store numbers for ML.
+- A 0D tensor (scalar) is just a single number—no dimensions.
+- A 1D tensor (vector) is a one-dimensional array of numbers, like a simple list.
+- A 2D tensor (matrix) is a grid of numbers—rows and columns forming a table.
+- A 3D tensor is a stack of matrices—like multiple layers of 2D grids.
+- Higher dimensions (N-D tensors) keep stacking—useful for complex data.
+- Rank is the number of dimensions. Shape tells you the size in each dimension.
+  Examples: Text data gets turned into tensors, images are 3D tensors (height, width, channels),
+  and time series form 3D tensors as well.
+
